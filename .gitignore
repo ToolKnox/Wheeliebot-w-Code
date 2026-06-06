@@ -1,0 +1,25 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Arduino / PlatformIO
+.pio/
+.vs/
+build/
+*.elf
+*.hex
+*.bin
+
+# Generated/exported
+*.log
+*.tmp
