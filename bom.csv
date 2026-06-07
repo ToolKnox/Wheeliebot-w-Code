@@ -1,60 +1,60 @@
-item_key,name,qty,category,notes,source,target_url,custom_label,custom_url
-motor-servo-360,Motor Servo 360°,2,Components,,amazon,,,
-mpu-6050-three-axis-acceleration-gyroscope,MPU-6050 Three-axis Acceleration Gyroscope,1,Components,Solder onto the main controller PCB,aliexpress,,,
-brushless-gimbal-motor-2208-80t,Brushless Gimbal Motor 2208 80T,2,Components,,amazon,,,
-neodymium-magnet-4x1mm,Neodymium Magnet 4x1mm,2,Components,,amazon,,,
-battery-1100mah-1500mah-30c,Battery 1100mAh-1500mAh 30c,1,Components,7.4v 30c xt30,amazon,,,
-battery-charger,Battery Charger,4,Components,,amazon,,,
-gh1-25-4pin-double-ended-cables,GH1.25 4PIN double-ended cables,4,Components,15cm - Pre-made or make it yourself,amazon,,,
-bearing-3x6x2mm,Bearing 3x6x2mm,4,Components,SMR63 3x6x2,amazon,,,
-bearing-4x7x2-5mm,Bearing 4x7x2.5mm,4,Components,MR74ZZ 4x7x2.5,amazon,,,
-cylindrical-pin-4x12mm,Cylindrical Pin 4x12mm,2,Components,,amazon,,,
-rubber-band-elastic,Rubber Band Elastic,2,Components,,amazon,,,
-spacer-distance-m2x25,Spacer / Distance M2x25,2,Components,M2x25-3mm,amazon,,,
-round-coupling-nuts,Round Coupling Nuts,4,Components,"M2 (D3,5mm x 8mm)",amazon,,,
-m2x8-3-brass-distance,M2x8+3 Brass Distance,3,Components,M2*8+3,amazon,,,
-m2x3-brass-standoff,M2x3 Brass Standoff,4,Components,,amazon,,,
-mc6s-m2x4,MC6S M2x4,20,Components,M2 Set,amazon,,,
-mc6s-m2x6,MC6S M2x6,20,Components,M2 Set,amazon,,,
-mc6s-m2x4-2,MC6S M2x4,20,Components,M2 Set,amazon,,,
-mc6s-m2-5x5,MC6S M2.5x5,20,Components,M2.5 Set,amazon,,,
-mc6s-m3x6,MC6S M3x6,20,Components,M3 set,amazon,,,
-nut-m2,Nut M2,20,Components,,amazon,,,
-m2x6-large-head,M2x6 Large Head,4,Components,,amazon,,,
-pc-asa-abs-petg-filament,PC / ASA / ABS / PETG Filament,1,Filament,,amazon,,,
-pc-cf-petg-cf-pa-cf-abs-engineering-grade-filaments,PC-CF / PETG-CF / PA-CF / ABS+ (Engineering Grade Filaments),1,Filament,,amazon,,,
-pla,PLA,1,Filament,,amazon,,,
-tpu,TPU,1,Filament,,amazon,,,
-encoderpcb,EncoderPCB,2,PCBs,Important: Order with PCB+Assembly!,other,,ORDER HERE,https://www.pcbway.com/project/shareproject/WheelieBot_Encoder_7059ee58.html
-controllerpcb,ControllerPCB,1,PCBs,Important: Order with PCB+Assembly!,other,,ORDER HERE,https://www.pcbway.com/project/shareproject/WheelieBot_MainPCB_f55945c5.html
-oledpcb,OledPCB,1,PCBs,Important: Order with PCB+Assembly!,other,,ORDER HERE,https://www.pcbway.com/project/shareproject/WheelieBot_OledPCB_66f64bdb.html
-servo-debug-pcb,Servo Debug PCB,1,PCBs,Important: Order with PCB+Assembly!,other,,ORDER HERE,https://www.pcbway.com/project/shareproject/WheelieBot_ServoDebug_c5f440db.html
-power-wire,Power Wire,1,PCBs,12AWG - (For 2A and/or 5v),amazon,,,
-communication-signal-wire,Communication / Signal Wire,1,PCBs,22AWG - (Recommend solid core),amazon,,,
-m3-button-cap-screw-set,M3 Button Cap Screw set,1,PCBs,,amazon,,,
-m3-torx-screw-set,M3 Torx Screw Set,1,PCBs,,amazon,,,
-m3-socket-head-cap-screw-set,M3 Socket Head Cap screw set,1,PCBs,,amazon,,,
-ferrules-set,Ferrules Set,1,PCBs,,amazon,,,
-reusable-velcro-cable-ties,Reusable Velcro Cable Ties,1,PCBs,,amazon,,,
-xt30-connector,XT30 Connector,2,PCBs,If your battery doesn't have a XT30 connector,amazon,,,
-m3-button-cap-set-alternative,M3 Button Cap Set (Alternative),1,PCBs,Alternative link,amazon,,,
-m3-socket-head-cap-alternative,M3 Socket head cap (Alternative,1,PCBs,Alternative link,amazon,,,
-m3-heat-insert-set-alternative,M3 Heat Insert set (Alternative,1,PCBs,Alternative link,amazon,,,
-m3-spacers-distances-alternative,M3 Spacers/Distances (Alternative,1,PCBs,Alternative link,amazon,,,
-heat-insert-set,Heat insert set,1,PCBs,,amazon,,,
-heat-insert-set-2,Heat insert set,1,PCBs,Alternative,amazon,,,
-heat-insert-m3x5x4,Heat Insert M3x5x4,1,PCBs,,amazon,,,
-heat-insert-m2x4x3-2,Heat Insert M2x4x3.2,1,PCBs,,amazon,,,
-soldering-iron-ts101,Soldering Iron TS101,1,Tools,(Recommended),amazon,,,
-heat-inset-tip-kit-for-ts101,Heat Inset Tip Kit - For TS101,1,Tools,(Recommended),amazon,,,
-electric-precision-screwdriver,Electric Precision Screwdriver,1,Tools,(Recommended),amazon,,,
-allen-key-set,Allen Key Set,1,Tools,(Recommended),amazon,,,
-torx-key-set,Torx Key Set,1,Tools,(Recommended),amazon,,,
-torque-screwdriver,Torque Screwdriver,1,Tools,(Recommended),amazon,,,
-wire-stripper,Wire stripper,1,Tools,(Recommended),amazon,,,
-wire-cutter,Wire cutter,1,Tools,(Recommended),amazon,,,
-heat-insert-press-tool,Heat Insert Press Tool,1,Tools,(Recommended),amazon,,,
-crimp-tool,Crimp Tool,1,Tools,(Recommended),amazon,,,
-soldering-iron-generic-alternative,Soldering Iron - Generic  (Alternative),1,Tools,Budget friendly alternative,amazon,,,
-heat-insert-tip-set-alternative,Heat insert tip - set   (Alternative),1,Tools,Budget friendly alternative,amazon,,,
-precision-screwdriver-set,Precision Screwdriver Set,1,Tools,Budget friendly alternative,amazon,,,
+category,item_key,name,qty,notes,aliexpress_url,amazon_url,pcbway_url,other_urls,all_urls
+Components,motor-servo-360,Motor Servo 360°,2,,https://s.click.aliexpress.com/e/_c4Mt1xX9,https://geni.us/lLyvL,,,https://s.click.aliexpress.com/e/_c4Mt1xX9 | https://geni.us/lLyvL
+Components,mpu-6050-three-axis-acceleration-gyroscope,MPU-6050 Three-axis Acceleration Gyroscope,1,Solder onto the main controller PCB,https://s.click.aliexpress.com/e/_c4ldyR3R,,,,https://s.click.aliexpress.com/e/_c4ldyR3R
+Components,brushless-gimbal-motor-2208-80t,Brushless Gimbal Motor 2208 80T,2,,https://s.click.aliexpress.com/e/_c3tG0QUT,https://geni.us/aJLN7F,,,https://s.click.aliexpress.com/e/_c3tG0QUT | https://geni.us/aJLN7F
+Components,neodymium-magnet-4x1mm,Neodymium Magnet 4x1mm,2,,https://s.click.aliexpress.com/e/_c3iNtXQx,https://geni.us/9jv2s,,,https://s.click.aliexpress.com/e/_c3iNtXQx | https://geni.us/9jv2s
+Components,battery-1100mah-1500mah-30c,Battery 1100mAh-1500mAh 30c,1,7.4v 30c xt30,https://s.click.aliexpress.com/e/_c2zxtOiz,https://geni.us/QuVH8,,,https://s.click.aliexpress.com/e/_c2zxtOiz | https://geni.us/QuVH8
+Components,battery-charger,Battery Charger,4,,https://s.click.aliexpress.com/e/_c3ojd7Pz,https://geni.us/Bj3CH,,,https://s.click.aliexpress.com/e/_c3ojd7Pz | https://geni.us/Bj3CH
+Components,gh1-25-4pin-double-ended-cables,GH1.25 4PIN double-ended cables,4,15cm - Pre-made or make it yourself,https://s.click.aliexpress.com/e/_c4XsWssx,https://geni.us/tyToXQ,,,https://s.click.aliexpress.com/e/_c4XsWssx | https://geni.us/tyToXQ
+Components,bearing-3x6x2mm,Bearing 3x6x2mm,4,SMR63 3x6x2,https://s.click.aliexpress.com/e/_c4bXpRJ5,https://www.amazon.com/SMR63-Bearing-ABEC-7-Stainless-Bearings/dp/B0FHD8FYY2/ref=sr_1_3?sr=8-3,,,https://s.click.aliexpress.com/e/_c4bXpRJ5 | https://www.amazon.com/SMR63-Bearing-ABEC-7-Stainless-Bearings/dp/B0FHD8FYY2/ref=sr_1_3?sr=8-3
+Components,bearing-4x7x2-5mm,Bearing 4x7x2.5mm,4,MR74ZZ 4x7x2.5,https://s.click.aliexpress.com/e/_c36xZYen,https://geni.us/dhIe9i0,,,https://s.click.aliexpress.com/e/_c36xZYen | https://geni.us/dhIe9i0
+Components,cylindrical-pin-4x12mm,Cylindrical Pin 4x12mm,2,,https://s.click.aliexpress.com/e/_c3lECaQP,https://geni.us/s9jX,,,https://s.click.aliexpress.com/e/_c3lECaQP | https://geni.us/s9jX
+Components,rubber-band-elastic,Rubber Band Elastic,2,,https://s.click.aliexpress.com/e/_c3lECaQP,https://geni.us/ZqTJ,,,https://s.click.aliexpress.com/e/_c3lECaQP | https://geni.us/ZqTJ
+Components,spacer-distance-m2x25,Spacer / Distance M2x25,2,M2x25-3mm,https://s.click.aliexpress.com/e/_c3lECaQP,https://geni.us/Xos0x,,,https://s.click.aliexpress.com/e/_c3lECaQP | https://geni.us/Xos0x
+Components,round-coupling-nuts,Round Coupling Nuts,4,"M2 (D3,5mm x 8mm)",https://s.click.aliexpress.com/e/_c3lECaQP,https://geni.us/PY9zxh6,,,https://s.click.aliexpress.com/e/_c3lECaQP | https://geni.us/PY9zxh6
+Components,m2x8-3-brass-distance,M2x8+3 Brass Distance,3,M2*8+3,https://s.click.aliexpress.com/e/_c3lECaQP,https://geni.us/yiNHc,,,https://s.click.aliexpress.com/e/_c3lECaQP | https://geni.us/yiNHc
+Components,m2x3-brass-standoff,M2x3 Brass Standoff,4,,https://s.click.aliexpress.com/e/_c3mkYh3N,https://geni.us/7ZfOt,,,https://s.click.aliexpress.com/e/_c3mkYh3N | https://geni.us/7ZfOt
+Components,mc6s-m2x4,MC6S M2x4,20,M2 Set,https://s.click.aliexpress.com/e/_c31efmKf,https://geni.us/mygGL,,,https://s.click.aliexpress.com/e/_c31efmKf | https://geni.us/mygGL
+Components,mc6s-m2x6,MC6S M2x6,20,M2 Set,https://s.click.aliexpress.com/e/_c31efmKf,https://geni.us/mygGL,,,https://s.click.aliexpress.com/e/_c31efmKf | https://geni.us/mygGL
+Components,mc6s-m2x4-2,MC6S M2x4,20,M2 Set,https://s.click.aliexpress.com/e/_c31efmKf,https://geni.us/mygGL,,,https://s.click.aliexpress.com/e/_c31efmKf | https://geni.us/mygGL
+Components,mc6s-m2-5x5,MC6S M2.5x5,20,M2.5 Set,https://s.click.aliexpress.com/e/_c31efmKf,https://geni.us/UGruk,,,https://s.click.aliexpress.com/e/_c31efmKf | https://geni.us/UGruk
+Components,mc6s-m3x6,MC6S M3x6,20,M3 set,https://s.click.aliexpress.com/e/_c31efmKf,https://geni.us/UGruk,,,https://s.click.aliexpress.com/e/_c31efmKf | https://geni.us/UGruk
+Components,nut-m2,Nut M2,20,,https://s.click.aliexpress.com/e/_c372z3sB,https://geni.us/9aoyK,,,https://s.click.aliexpress.com/e/_c372z3sB | https://geni.us/9aoyK
+Components,m2x6-large-head,M2x6 Large Head,4,,https://s.click.aliexpress.com/e/_c4btAK9z,https://geni.us/iBuGZm,,,https://s.click.aliexpress.com/e/_c4btAK9z | https://geni.us/iBuGZm
+PCBs,encoderpcb,EncoderPCB,2,Important: Order with PCB+Assembly!,,,https://www.pcbway.com/project/shareproject/WheelieBot_Encoder_7059ee58.html,,https://www.pcbway.com/project/shareproject/WheelieBot_Encoder_7059ee58.html
+PCBs,controllerpcb,ControllerPCB,1,Important: Order with PCB+Assembly!,,,https://www.pcbway.com/project/shareproject/WheelieBot_MainPCB_f55945c5.html,,https://www.pcbway.com/project/shareproject/WheelieBot_MainPCB_f55945c5.html
+PCBs,oledpcb,OledPCB,1,Important: Order with PCB+Assembly!,,,https://www.pcbway.com/project/shareproject/WheelieBot_OledPCB_66f64bdb.html,,https://www.pcbway.com/project/shareproject/WheelieBot_OledPCB_66f64bdb.html
+PCBs,servo-debug-pcb,Servo Debug PCB,1,Important: Order with PCB+Assembly!,,,https://www.pcbway.com/project/shareproject/WheelieBot_ServoDebug_c5f440db.html,,https://www.pcbway.com/project/shareproject/WheelieBot_ServoDebug_c5f440db.html
+PCBs,power-wire,Power Wire,-,12AWG - (For 2A and/or 5v),https://s.click.aliexpress.com/e/_c4LqZdoR,https://geni.us/XebB,,,https://s.click.aliexpress.com/e/_c4LqZdoR | https://geni.us/XebB
+PCBs,communication-signal-wire,Communication / Signal Wire,-,22AWG - (Recommend solid core),https://s.click.aliexpress.com/e/_c4UaCupl,https://geni.us/BbErE,,,https://s.click.aliexpress.com/e/_c4UaCupl | https://geni.us/BbErE
+PCBs,m3-button-cap-screw-set,M3 Button Cap Screw set,-,,https://s.click.aliexpress.com/e/_c4bxGMnj,https://geni.us/m7Fcy3W,,,https://s.click.aliexpress.com/e/_c4bxGMnj | https://geni.us/m7Fcy3W
+PCBs,m3-torx-screw-set,M3 Torx Screw Set,-,,https://s.click.aliexpress.com/e/_c3LzcR2l,https://geni.us/Ne8VKA,,,https://s.click.aliexpress.com/e/_c3LzcR2l | https://geni.us/Ne8VKA
+PCBs,m3-socket-head-cap-screw-set,M3 Socket Head Cap screw set,-,,https://s.click.aliexpress.com/e/_c3YwV4zB,https://geni.us/XPB98,,,https://s.click.aliexpress.com/e/_c3YwV4zB | https://geni.us/XPB98
+PCBs,ferrules-set,Ferrules Set,-,,https://s.click.aliexpress.com/e/_c3vwxAYd,https://geni.us/goGBfjS,,,https://s.click.aliexpress.com/e/_c3vwxAYd | https://geni.us/goGBfjS
+PCBs,reusable-velcro-cable-ties,Reusable Velcro Cable Ties,-,,https://s.click.aliexpress.com/e/_c3d8IWlX,https://geni.us/Q925,,,https://s.click.aliexpress.com/e/_c3d8IWlX | https://geni.us/Q925
+PCBs,xt30-connector,XT30 Connector,2,If your battery doesn't have a XT30 connector,https://s.click.aliexpress.com/e/_c2zxtOiz,https://geni.us/y7NRD3,,,https://s.click.aliexpress.com/e/_c2zxtOiz | https://geni.us/y7NRD3
+PCBs,m3-button-cap-set-alternative,M3 Button Cap Set (Alternative),-,Alternative link,https://s.click.aliexpress.com/e/_c3U3ieZ5,https://geni.us/E16UHsn,,,https://s.click.aliexpress.com/e/_c3U3ieZ5 | https://geni.us/E16UHsn
+PCBs,m3-socket-head-cap-alternative,M3 Socket head cap (Alternative,-,Alternative link,https://s.click.aliexpress.com/e/_c3bgc4dV,https://geni.us/IjB2,,,https://s.click.aliexpress.com/e/_c3bgc4dV | https://geni.us/IjB2
+PCBs,m3-heat-insert-set-alternative,M3 Heat Insert set (Alternative,-,Alternative link,https://s.click.aliexpress.com/e/_c2x4SRlD,https://geni.us/Q2AAgV,,,https://s.click.aliexpress.com/e/_c2x4SRlD | https://geni.us/Q2AAgV
+PCBs,m3-spacers-distances-alternative,M3 Spacers/Distances (Alternative,-,Alternative link,https://s.click.aliexpress.com/e/_c3h7tw0F,https://geni.us/5tf871A,,,https://s.click.aliexpress.com/e/_c3h7tw0F | https://geni.us/5tf871A
+PCBs,heat-insert-set,Heat insert set,-,,https://s.click.aliexpress.com/e/_c4PpqBn5,https://geni.us/v1c6n,,,https://s.click.aliexpress.com/e/_c4PpqBn5 | https://geni.us/v1c6n
+PCBs,heat-insert-set-2,Heat insert set,-,Alternative,https://s.click.aliexpress.com/e/_c3EI96Ah,https://geni.us/iEIj,,,https://s.click.aliexpress.com/e/_c3EI96Ah | https://geni.us/iEIj
+PCBs,heat-insert-m3x5x4,Heat Insert M3x5x4,-,,https://s.click.aliexpress.com/e/_c4sNM1UD,https://geni.us/s7TboA,,,https://s.click.aliexpress.com/e/_c4sNM1UD | https://geni.us/s7TboA
+PCBs,heat-insert-m2x4x3-2,Heat Insert M2x4x3.2,-,,https://s.click.aliexpress.com/e/_c3OEw7fr,https://geni.us/RdQV,,,https://s.click.aliexpress.com/e/_c3OEw7fr | https://geni.us/RdQV
+Filament,pc-asa-abs-petg-filament,PC / ASA / ABS / PETG Filament,-,,https://s.click.aliexpress.com/e/_c3TLvFW9,https://geni.us/enf7pY,,,https://s.click.aliexpress.com/e/_c3TLvFW9 | https://geni.us/enf7pY
+Filament,pc-cf-petg-cf-pa-cf-abs-engineering-grade-filaments,PC-CF / PETG-CF / PA-CF / ABS+ (Engineering Grade Filaments),-,,https://s.click.aliexpress.com/e/_c3sc5Ef3,https://geni.us/khjmN,,,https://s.click.aliexpress.com/e/_c3sc5Ef3 | https://geni.us/khjmN
+Filament,pla,PLA,-,,https://s.click.aliexpress.com/e/_c3lakGcl,https://geni.us/pBQCzkI,,,https://s.click.aliexpress.com/e/_c3lakGcl | https://geni.us/pBQCzkI
+Filament,tpu,TPU,-,,https://s.click.aliexpress.com/e/_c4mEXgLb,https://geni.us/NGlAPc,,,https://s.click.aliexpress.com/e/_c4mEXgLb | https://geni.us/NGlAPc
+Tools,soldering-iron-ts101,Soldering Iron TS101,-,(Recommended),https://s.click.aliexpress.com/e/_c2QmV6QP,https://geni.us/rPNNHLD,,,https://s.click.aliexpress.com/e/_c2QmV6QP | https://geni.us/rPNNHLD
+Tools,heat-inset-tip-kit-for-ts101,Heat Inset Tip Kit - For TS101,-,(Recommended),https://s.click.aliexpress.com/e/_c4oAQMU5,https://geni.us/hrT4m82,,,https://s.click.aliexpress.com/e/_c4oAQMU5 | https://geni.us/hrT4m82
+Tools,electric-precision-screwdriver,Electric Precision Screwdriver,-,(Recommended),https://s.click.aliexpress.com/e/_c4WbOjBf,https://geni.us/ckKSnm,,,https://s.click.aliexpress.com/e/_c4WbOjBf | https://geni.us/ckKSnm
+Tools,allen-key-set,Allen Key Set,-,(Recommended),https://s.click.aliexpress.com/e/_c4dcwKsN,https://geni.us/DTXl,,,https://s.click.aliexpress.com/e/_c4dcwKsN | https://geni.us/DTXl
+Tools,torx-key-set,Torx Key Set,-,(Recommended),https://s.click.aliexpress.com/e/_c3zbLorL,https://geni.us/35Em2C,,,https://s.click.aliexpress.com/e/_c3zbLorL | https://geni.us/35Em2C
+Tools,torque-screwdriver,Torque Screwdriver,-,(Recommended),https://s.click.aliexpress.com/e/_c39Zxrt7,https://geni.us/ckKSnm,,,https://s.click.aliexpress.com/e/_c39Zxrt7 | https://geni.us/ckKSnm
+Tools,wire-stripper,Wire stripper,-,(Recommended),,https://geni.us/SvNtLpP,,,https://geni.us/SvNtLpP
+Tools,wire-cutter,Wire cutter,-,(Recommended),https://s.click.aliexpress.com/e/_c2yogYf1,https://geni.us/TFzOR4,,,https://s.click.aliexpress.com/e/_c2yogYf1 | https://geni.us/TFzOR4
+Tools,heat-insert-press-tool,Heat Insert Press Tool,-,(Recommended),https://s.click.aliexpress.com/e/_c3ljOLkX,https://geni.us/g0yu0,,,https://s.click.aliexpress.com/e/_c3ljOLkX | https://geni.us/g0yu0
+Tools,crimp-tool,Crimp Tool,-,(Recommended),https://s.click.aliexpress.com/e/_c4VtpJeL,https://geni.us/RH6Ac9,,,https://s.click.aliexpress.com/e/_c4VtpJeL | https://geni.us/RH6Ac9
+Tools,soldering-iron-generic-alternative,Soldering Iron - Generic (Alternative),-,Budget friendly alternative,https://s.click.aliexpress.com/e/_c4sOxkox,https://geni.us/Drzhe7o,,,https://s.click.aliexpress.com/e/_c4sOxkox | https://geni.us/Drzhe7o
+Tools,heat-insert-tip-set-alternative,Heat insert tip - set (Alternative),-,Budget friendly alternative,https://s.click.aliexpress.com/e/_c4V88eu7,https://geni.us/aAqQH,,,https://s.click.aliexpress.com/e/_c4V88eu7 | https://geni.us/aAqQH
+Tools,precision-screwdriver-set,Precision Screwdriver Set,-,Budget friendly alternative,https://s.click.aliexpress.com/e/_c3bHpwH9,https://geni.us/Kk4tgSV,,,https://s.click.aliexpress.com/e/_c3bHpwH9 | https://geni.us/Kk4tgSV
