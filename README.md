@@ -91,3 +91,7 @@ Derived from [Navbot-EN01](https://github.com/fuwei007) by fuwei007. License inh
 ## Contributing / feedback
 
 Issues and PRs welcome. If you build one, post a make on the [Printables listing](https://www.printables.com/model/1475637) — I read every comment.
+
+## Build resources
+
+- [Bill of Material](https://toolknox.github.io/Wheeliebot-w-Code/bill-of-material.html)
