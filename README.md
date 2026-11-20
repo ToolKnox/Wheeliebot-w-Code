@@ -95,3 +95,8 @@ Issues and PRs welcome. If you build one, post a make on the [Printables listing
 ## Build resources
 
 - [Bill of Material](https://toolknox.github.io/Wheeliebot-w-Code/bill-of-material.html)
+
+## Bill of Material
+
+[Bill of Material (PDF)](BOM.pdf): every part to buy, with shop links.
+
